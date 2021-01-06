@@ -4,6 +4,7 @@ Rust is awesome!
 
 Screenshots for commands and stuff:
 ![part 1](./part-1.png)
+![another](./part-1-2.png)
 ![part 2](./part-2.png)
 
 # H1
