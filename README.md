@@ -2,6 +2,10 @@
 
 Rust is awesome!
 
+Screenshots for commands and stuff:
+![part 1](./part-1.png)
+![part 2](./part-2.png)
+
 # H1
 ## H2
 ### H3
