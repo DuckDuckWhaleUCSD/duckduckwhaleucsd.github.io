@@ -33,6 +33,8 @@ Raw: <https://duckduckwhaleucsd.github.io/>
 
 [Link to the readme](https://github.com/DuckDuckWhaleUCSD/duckduckwhaleucsd.github.io/blob/add-read-me/README.md)
 
+[Link to the second header](#H2)
+
 - first
 	- nested
 - second
