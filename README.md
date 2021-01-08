@@ -14,7 +14,7 @@ Screenshots for commands and stuff:
 ##### H5
 ###### H6
 
-_italic_ _bold_ ~~strike~~ **_nested_**
+_italic_ **bold** ~~strike~~ **_nested_**
 
 > Quote
 
